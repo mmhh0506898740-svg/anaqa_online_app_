@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "أناقة أون لاين",
+    "slug": "anaqa-online",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2A0638"
+    },
+    "android": {
+      "package": "com.anaqaonline.store",
+      "versionCode": 2
+    },
+    "ios": {
+      "bundleIdentifier": "com.anaqaonline.store",
+      "buildNumber": "2"
+    },
+    "icon": "./assets/icon.png"
+  }
+}
